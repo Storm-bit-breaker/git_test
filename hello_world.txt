@@ -1,0 +1,3 @@
+Hello world! My name is Storm-bit-breaker.
+I am aspiring the become a full stack developer and coder in 2025.
+I am a studen of "The Odin Project" and this is my first repository creation. 
